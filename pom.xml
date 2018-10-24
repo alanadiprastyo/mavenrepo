@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://13.58.68.15:8081/repository/sample-rel/</url>
+            <url>http://nexus-eksad.routecloud.id:8081/repository/eksad-artifact/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://13.58.68.15:8081/repository/sample-snap/</url>
+            <url>http://nexus-eksad.routecloud.id:8081/repository/eksad-artifact/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
